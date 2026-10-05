@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shashank Singh 👋
 
-<!--
-**shashanksingh-work/Shashanksingh-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | MBA Business Analytics
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and
+solving business problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Analysis
+- Business Analytics
+
+### 📚 Currently Learning
+- Advanced SQL
+- Power BI
+- Python for Data Analytics
+- Business Intelligence
+
+### 🚀 What I'm Working On
+- Data Analytics projects
+- Power BI dashboards
+- SQL case studies
+- Business Analytics projects
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/shashank-singh-0399ba353)
+- [GitHub](https://github.com/shashanksingh-work)
